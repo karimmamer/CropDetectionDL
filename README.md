@@ -4,6 +4,8 @@ First place solution for Crop Detection from Satellite Imagery competition organ
 
 ## Getting Started
 
+A summarized description of the approach can be found [here](https://zindi.africa/competitions/iclr-workshop-challenge-2-radiant-earth-computer-vision-for-crop-recognition/discussions/1147).
+
 ### Prerequisites
 
 Firstly, you need to have 
