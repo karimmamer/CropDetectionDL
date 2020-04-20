@@ -18,7 +18,7 @@ Secondly, you need to install the challenge data and sample submission file by t
 Thirdly, you need to install the dependencies by running:
 
 ```
-pip3 requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ## Running
