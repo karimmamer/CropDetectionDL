@@ -5,5 +5,5 @@ torch==1.4.0
 pandas==1.0.1
 numpy==1.18.1
 matplotlib==3.2.1
-Pillow==7.0.0
+Pillow==8.3.2
 scikit_learn==0.22.2.post1
