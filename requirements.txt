@@ -1,5 +1,5 @@
 torchvision==0.5.0
-scipy==1.4.1
+scipy==1.10.0
 scikit_image==0.16.2
 torch==1.4.0
 pandas==1.0.1
